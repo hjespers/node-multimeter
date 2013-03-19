@@ -9,7 +9,7 @@
         "test" : "test"
     },
     "dependencies" : {
-        "charm" : "~0.1.1"
+        "charm" : "https://github.com/hjespers/node-charm.git"
     },
     "repository" : {
         "type" : "git",
